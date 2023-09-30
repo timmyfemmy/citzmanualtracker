@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="fe2f4d2697613110e1961c800153afc7" extends="task" label="Technical Manual Request" max_length="40" name="x_439657_citztmt_technical_manual_request" type="collection">
+        <element attributes="encode_utf8=false" label="Manual Copy" mandatory="true" max_length="32" name="manual_copy" reference="x_439657_citztmt_manual_copy" type="reference"/>
+    </element>
+</database>

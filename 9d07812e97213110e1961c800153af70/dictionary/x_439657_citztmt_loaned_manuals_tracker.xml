@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f8f1d5e697613110e1961c800153af0c" label="Loaned manuals tracker" max_length="40" name="x_439657_citztmt_loaned_manuals_tracker" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Date loaned" max_length="40" name="date_loaned" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Date returned" max_length="40" name="date_returned" type="glide_date"/>
+        <element attributes="encode_utf8=false" label="Loaner" mandatory="true" max_length="32" name="loaner" reference="x_439657_citztmt_technical_manual_loaner" type="reference"/>
+        <element attributes="encode_utf8=false" label="Manual" max_length="32" name="manual" reference="x_439657_citztmt_manual_copy" type="reference"/>
+        <element attributes="encode_utf8=false" label="Request" max_length="32" name="request" reference="x_439657_citztmt_technical_manual_request" type="reference"/>
+        <element label="Returned" max_length="40" name="returned" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Return due date" max_length="40" name="return_due_date" type="glide_date"/>
+        <index name="index">
+            <element name="loaner"/>
+        </index>
+        <index name="index2">
+            <element name="manual"/>
+        </index>
+        <index name="index3">
+            <element name="request"/>
+        </index>
+    </element>
+</database>

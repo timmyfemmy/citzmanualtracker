@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Technical Manual Request</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Technical Manual Request</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">565a170bb4232110320f8dc279c804ed</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-30 22:01:24</sys_created_on>
+        <sys_id>322f4d2697613110e1961c800153afc9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Technical Manual Request</sys_name>
+        <sys_package display_value="CITZ Technical Manual Library" source="x_439657_citztmt">9d07812e97213110e1961c800153af70</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CITZ Technical Manual Library">9d07812e97213110e1961c800153af70</sys_scope>
+        <sys_update_name>sys_wizard_answer_322f4d2697613110e1961c800153afc9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-30 22:01:24</sys_updated_on>
+        <table/>
+        <target_url>x_439657_citztmt_technical_manual_request.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

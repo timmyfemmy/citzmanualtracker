@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="badc89a297613110e1961c800153afa4" label="Location" max_length="40" name="x_439657_citztmt_location" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Building" max_length="40" name="building" type="choice">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Room" max_length="40" name="room" type="choice">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Shelf" max_length="40" name="shelf" type="choice">
+            <choice/>
+        </element>
+    </element>
+</database>
