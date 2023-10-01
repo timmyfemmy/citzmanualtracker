@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - Popular Articles">cd23deaaa46531104fab7414860c0510</dataset>
+        <datasource display_value="Custom Portal Landing - Popular articles Datasource">0523deaa38653110a24317a307c05b0f</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-10-01 02:58:27</sys_created_on>
+        <sys_id>0123deaaac6531102a0444176e72090d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CITZ Technical Manual Library" source="x_439657_citztmt">9d07812e97213110e1961c800153af70</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CITZ Technical Manual Library">9d07812e97213110e1961c800153af70</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_0123deaaac6531102a0444176e72090d</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-01 02:58:27</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

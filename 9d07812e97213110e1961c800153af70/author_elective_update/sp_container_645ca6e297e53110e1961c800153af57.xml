@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Technical Manual Library - Container 2</name>
+        <order>2</order>
+        <sp_page display_value="citztmt_library">d275962e97653110e1961c800153af9e</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-01 04:48:24</sys_created_on>
+        <sys_id>645ca6e297e53110e1961c800153af57</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Technical Manual Library - Container 2</sys_name>
+        <sys_package display_value="CITZ Technical Manual Library" source="x_439657_citztmt">9d07812e97213110e1961c800153af70</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CITZ Technical Manual Library">9d07812e97213110e1961c800153af70</sys_scope>
+        <sys_update_name>sp_container_645ca6e297e53110e1961c800153af57</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-01 04:53:55</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CITZ Technical Manual Library">9d07812e97213110e1961c800153af70</application>
+        <file_path/>
+        <instance_id>f6cca41edb124890387021c40596198a</instance_id>
+        <instance_name>dev96850</instance_name>
+        <name>sp_container_645ca6e297e53110e1961c800153af57</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Technical Manual Library - Container 2</name><order>2</order><sp_page display_value="citztmt_library">d275962e97653110e1961c800153af9e</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-01 04:48:24</sys_created_on><sys_id>645ca6e297e53110e1961c800153af57</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Technical Manual Library - Container 2</sys_name><sys_package display_value="CITZ Technical Manual Library" source="x_439657_citztmt">9d07812e97213110e1961c800153af70</sys_package><sys_policy/><sys_scope display_value="CITZ Technical Manual Library">9d07812e97213110e1961c800153af70</sys_scope><sys_update_name>sp_container_645ca6e297e53110e1961c800153af57</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-01 04:53:55</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>748072742</payload_hash>
+        <record_name>Technical Manual Library - Container 2</record_name>
+        <reverted_from/>
+        <source>6aae11a297a13110e1961c800153af3c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-01 04:53:55</sys_created_on>
+        <sys_id>2d9daa2697e53110e1961c800153af21</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ae995fd590000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-01 04:53:55</sys_updated_on>
+        <type>Container</type>
+        <update_guid>e19daa26b8e53110fc892affa223e721</update_guid>
+        <update_guid_history>e19daa26b8e53110fc892affa223e721:748072742,285ca6e20fe53110adb82f98c0f1e658:31677831</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Technical Manual Library - Container 2">969da22697e53110e1961c800153afe4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-01 04:53:59</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>521c467ca189412ca8a16b4cf09823a4</sys_id>
+        <sys_metadata>645ca6e297e53110e1961c800153af57</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Technical Manual Library - Container 2</sys_name>
+        <sys_package display_value="CITZ Technical Manual Library" source="x_439657_citztmt">9d07812e97213110e1961c800153af70</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CITZ Technical Manual Library">9d07812e97213110e1961c800153af70</sys_scope>
+        <sys_scope_delete display_value="">b6ea79584015405ba1d1382355a620c9</sys_scope_delete>
+        <sys_update_name>sp_container_645ca6e297e53110e1961c800153af57</sys_update_name>
+        <sys_update_version display_value="sp_container_645ca6e297e53110e1961c800153af57">2d9daa2697e53110e1961c800153af21</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-01 04:53:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

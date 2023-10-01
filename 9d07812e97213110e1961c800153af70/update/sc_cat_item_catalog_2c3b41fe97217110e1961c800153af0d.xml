@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Microsoft Windows Server 2016 Installation and Administration">643b41fe97217110e1961c800153af0b</sc_cat_item>
+        <sc_catalog display_value="Technical Manual Catalog">b26bf2a297293110e1961c800153af0c</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-01 16:22:32</sys_created_on>
+        <sys_id>2c3b41fe97217110e1961c800153af0d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Technical Manual Catalog.Microsoft Windows Server 2016 Installation and Administration</sys_name>
+        <sys_package display_value="CITZ Technical Manual Library" source="x_439657_citztmt">9d07812e97213110e1961c800153af70</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CITZ Technical Manual Library">9d07812e97213110e1961c800153af70</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_2c3b41fe97217110e1961c800153af0d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-01 16:22:32</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

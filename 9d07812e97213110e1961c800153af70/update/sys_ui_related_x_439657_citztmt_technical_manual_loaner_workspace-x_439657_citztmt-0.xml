@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_439657_citztmt_technical_manual_loaner" version="2" view="workspace-citz-technical-manual-library-0">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Technical Manual Loaner - Workspace CITZ Technical Manual Library 0" name="x_439657_citztmt_technical_manual_loaner" related_list="NULL" sys_domain="global" view="d95f87e61e693110e96b21b2499a9de4">856f032a97693110e1961c800153afa5</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>x_439657_citztmt_loaned_manuals_tracker.loaner</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-01 07:21:37</sys_created_on>
+            <sys_id>cd6f032a97693110e1961c800153afa5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-01 07:21:37</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Technical Manual Loaner - Workspace CITZ Technical Manual Library 0" name="x_439657_citztmt_technical_manual_loaner" related_list="NULL" sys_domain="global" view="d95f87e61e693110e96b21b2499a9de4">856f032a97693110e1961c800153afa5</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>x_439657_citztmt_technical_manual_request.requester</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-01 07:21:37</sys_created_on>
+            <sys_id>cd6f032a97693110e1961c800153afd7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-01 07:21:37</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Technical Manual Loaner - Workspace CITZ Technical Manual Library 0</calculated_name>
+            <filter/>
+            <name>x_439657_citztmt_technical_manual_loaner</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-01 07:21:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>856f032a97693110e1961c800153afa5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Technical Manual Loaner - Workspace-x 439657 citztmt-0</sys_name>
+            <sys_package display_value="CITZ Technical Manual Library" source="x_439657_citztmt">9d07812e97213110e1961c800153af70</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CITZ Technical Manual Library">9d07812e97213110e1961c800153af70</sys_scope>
+            <sys_update_name>sys_ui_related_x_439657_citztmt_technical_manual_loaner_Workspace-x_439657_citztmt-0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-01 07:21:37</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace CITZ Technical Manual Library 0" name="workspace-citz-technical-manual-library-0">d95f87e61e693110e96b21b2499a9de4</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

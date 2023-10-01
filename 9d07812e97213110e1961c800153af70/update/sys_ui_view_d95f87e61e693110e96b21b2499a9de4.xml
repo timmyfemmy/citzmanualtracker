@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>workspace-citz-technical-manual-library-0</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-01 07:21:24</sys_created_on>
+        <sys_id>d95f87e61e693110e96b21b2499a9de4</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Workspace CITZ Technical Manual Library 0</sys_name>
+        <sys_package display_value="CITZ Technical Manual Library" source="x_439657_citztmt">9d07812e97213110e1961c800153af70</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CITZ Technical Manual Library">9d07812e97213110e1961c800153af70</sys_scope>
+        <sys_update_name>sys_ui_view_d95f87e61e693110e96b21b2499a9de4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-01 07:21:38</sys_updated_on>
+        <title>Workspace CITZ Technical Manual Library 0</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

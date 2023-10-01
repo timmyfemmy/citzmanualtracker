@@ -1,13 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="badc89a297613110e1961c800153afa4" label="Location" max_length="40" name="x_439657_citztmt_location" type="collection">
+    <element db_object_id="badc89a297613110e1961c800153afa4" label="Location" max_length="40" name="x_439657_citztmt_location" text_index="true" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="1" label="Building" max_length="40" name="building" type="choice">
-            <choice/>
+            <choice>
+                <element inactive_on_update="false" label="Building A" value="building_a"/>
+                <element inactive_on_update="false" label="Building B" value="building_b"/>
+                <element inactive_on_update="false" label="CITZ Building" value="citz_building"/>
+            </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true" choice="1" label="Room" max_length="40" name="room" type="choice">
-            <choice/>
+        <element attributes="edge_encryption_enabled=true" choice="1" dependent="building" dependent_on_field="building" label="Room" max_length="40" name="room" type="choice" unique="true" use_dependent_field="true">
+            <choice>
+                <element dependent_value="building_a" inactive_on_update="false" label="Building A Room 1" value="builading_a_room_1"/>
+                <element dependent_value="building_a" inactive_on_update="false" label="Building A Room 2" value="building_a_room_2"/>
+                <element dependent_value="building_b" inactive_on_update="false" label="Building B Room 1" value="building_b_room_1"/>
+                <element dependent_value="building_b" inactive_on_update="false" label="Building B Room 2" value="building_b_room_2"/>
+                <element dependent_value="citz_building" inactive_on_update="false" label="Devices Room" value="devices_room"/>
+                <element dependent_value="citz_building" inactive_on_update="false" label="Planning Room" value="planning_room"/>
+                <element dependent_value="citz_building" inactive_on_update="false" label="System Room" value="system_room"/>
+            </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Shelf" max_length="40" name="shelf" type="choice">
             <choice/>
         </element>
+        <index name="index" unique="true">
+            <element name="building"/>
+            <element name="room"/>
+        </index>
+        <index name="index2" unique="true">
+            <element name="room"/>
+        </index>
     </element>
 </database>

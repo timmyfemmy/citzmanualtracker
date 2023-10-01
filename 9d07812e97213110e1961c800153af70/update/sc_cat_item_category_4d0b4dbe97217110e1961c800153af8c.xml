@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Cisco Hardware Technical Administration Reference Guide">8c8a05be97217110e1961c800153af30</sc_cat_item>
+        <sc_category display_value="Network">ca6c3ea297293110e1961c800153afdf</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-01 16:21:45</sys_created_on>
+        <sys_id>4d0b4dbe97217110e1961c800153af8c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Network.Cisco Hardware Technical Administration Reference Guide</sys_name>
+        <sys_package display_value="CITZ Technical Manual Library" source="x_439657_citztmt">9d07812e97213110e1961c800153af70</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CITZ Technical Manual Library">9d07812e97213110e1961c800153af70</sys_scope>
+        <sys_update_name>sc_cat_item_category_4d0b4dbe97217110e1961c800153af8c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-01 16:21:45</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

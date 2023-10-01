@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">5f97766e97e53110e1961c800153af0d</sp_column>
+        <sp_widget display_value="Catalog Content">ae5755942d94b010f87773c1799aba0f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-01 05:51:07</sys_created_on>
+        <sys_id>9faaba2297293110e1961c800153af5f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CITZ Technical Manual Library" source="x_439657_citztmt">9d07812e97213110e1961c800153af70</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CITZ Technical Manual Library">9d07812e97213110e1961c800153af70</sys_scope>
+        <sys_update_name>sp_instance_9faaba2297293110e1961c800153af5f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-01 05:51:07</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=9faaba2297293110e1961c800153af5f"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CITZ Technical Manual Library">9d07812e97213110e1961c800153af70</application>
+        <file_path/>
+        <instance_id>f6cca41edb124890387021c40596198a</instance_id>
+        <instance_name>dev96850</instance_name>
+        <name>sp_instance_9faaba2297293110e1961c800153af5f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">5f97766e97e53110e1961c800153af0d</sp_column><sp_widget display_value="Catalog Content">ae5755942d94b010f87773c1799aba0f</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-01 05:51:07</sys_created_on><sys_id>9faaba2297293110e1961c800153af5f</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="CITZ Technical Manual Library" source="x_439657_citztmt">9d07812e97213110e1961c800153af70</sys_package><sys_policy/><sys_scope display_value="CITZ Technical Manual Library">9d07812e97213110e1961c800153af70</sys_scope><sys_update_name>sp_instance_9faaba2297293110e1961c800153af5f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-01 05:51:07</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=9faaba2297293110e1961c800153af5f"/></record_update>]]></payload>
+        <payload_hash>1207144692</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>6aae11a297a13110e1961c800153af3c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-01 05:51:08</sys_created_on>
+        <sys_id>63aaba2297293110e1961c800153af62</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ae9ca5e040000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-01 05:51:08</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>a7aaba22d7293110420abe1d29446261</update_guid>
+        <update_guid_history>a7aaba22d7293110420abe1d29446261:1207144692</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">82ba726297293110e1961c800153afa0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-01 05:51:19</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>5af5da1e6e5c418db1362868942e6831</sys_id>
+        <sys_metadata>9faaba2297293110e1961c800153af5f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CITZ Technical Manual Library" source="x_439657_citztmt">9d07812e97213110e1961c800153af70</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CITZ Technical Manual Library">9d07812e97213110e1961c800153af70</sys_scope>
+        <sys_scope_delete display_value="">b6ea79584015405ba1d1382355a620c9</sys_scope_delete>
+        <sys_update_name>sp_instance_9faaba2297293110e1961c800153af5f</sys_update_name>
+        <sys_update_version display_value="sp_instance_9faaba2297293110e1961c800153af5f">63aaba2297293110e1961c800153af62</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-01 05:51:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

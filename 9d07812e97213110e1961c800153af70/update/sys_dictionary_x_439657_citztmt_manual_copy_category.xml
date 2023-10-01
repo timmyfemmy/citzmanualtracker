@@ -4,7 +4,12 @@
         <array>false</array>
         <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
-        <calculation/>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return current.manual.category;  // return the calculated value
+
+})(current);]]></calculation>
         <choice>1</choice>
         <choice_field/>
         <choice_table/>
@@ -28,7 +33,7 @@
         <function_definition/>
         <function_field>false</function_field>
         <internal_type display_value="Choice">choice</internal_type>
-        <mandatory>true</mandatory>
+        <mandatory>false</mandatory>
         <max_length>40</max_length>
         <name>x_439657_citztmt_manual_copy</name>
         <next_element/>
@@ -53,14 +58,14 @@
         <sys_scope display_value="CITZ Technical Manual Library">9d07812e97213110e1961c800153af70</sys_scope>
         <sys_update_name>sys_dictionary_x_439657_citztmt_manual_copy_category</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-09-30 21:47:15</sys_updated_on>
+        <sys_updated_on>2023-10-01 00:43:49</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
         <use_dependent_field>false</use_dependent_field>
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
-        <virtual>false</virtual>
+        <virtual>true</virtual>
         <virtual_type>script</virtual_type>
         <widget/>
         <write_roles/>

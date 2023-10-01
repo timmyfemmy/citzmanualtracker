@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>400</order>
+        <search_context_config display_value="CITZ Technical Manual Library - Workspace Search">1d5f87e6e9693110cd6aaa34968c81e5</search_context_config>
+        <source display_value="CITZ Technical Manual Library - x_439657_citztmt_l">135f8be697693110e1961c800153af03</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-01 07:21:30</sys_created_on>
+        <sys_id>5b5f8be697693110e1961c800153af16</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CITZ Technical Manual Library" source="x_439657_citztmt">9d07812e97213110e1961c800153af70</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CITZ Technical Manual Library">9d07812e97213110e1961c800153af70</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_5b5f8be697693110e1961c800153af16</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-01 07:21:30</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>

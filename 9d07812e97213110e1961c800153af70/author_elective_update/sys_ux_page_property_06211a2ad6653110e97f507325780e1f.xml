@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="CITZ Technical Manual Library">7d21d62a97653110e1961c800153aff9</page>
+        <required_translations>[ {
+  "message" : "Configure",
+  "comment" : ""
+}, {
+  "message" : "Logout",
+  "comment" : ""
+}, {
+  "message" : "Settings",
+  "comment" : ""
+}, {
+  "message" : "UserMenu",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-10-01 02:49:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>06211a2ad6653110e97f507325780e1f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="CITZ Technical Manual Library" source="x_439657_citztmt">9d07812e97213110e1961c800153af70</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CITZ Technical Manual Library">9d07812e97213110e1961c800153af70</sys_scope>
+        <sys_update_name>sys_ux_page_property_06211a2ad6653110e97f507325780e1f</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-01 02:49:52</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_439657_citztmt.7d21d62a97653110e1961c800153aff9.root.chrome_header</unique_name>
+        <value>{
+    "privatePage":{
+      "searchEnabled": true,
+       "userPrefsEnabled":true,
+       "currentScreenLinkConfiguration": {
+            "roles": ["admin"],
+            "position": 250
+        },
+       "globalTools":{
+          "collapsingMenuId":0,
+          "primaryItems":[
+             {
+                "label":"UserMenu",
+                "icon":"user",
+                "type":"menu",
+                "primaryDisplay":"icon",
+                "value":{
+                   "children":[
+                      {
+                         "label": {
+                          "translatable": true,
+                          "message":"Settings"
+                        },
+                         "position":100,
+                         "type":"navigation",
+                         "value":{
+                            "type":"route",
+                            "value":{
+                               "route":"settings",
+                               "fields":{
+                                  
+                               }
+                            }
+                         }
+                      },
+                      {                   
+                        "condition": {
+                          "roles": ["admin", "ui_builder_admin"]
+                        },
+                         "label":{
+                            "translatable": true,
+                            "message":"Configure"
+                          },
+                         "type":"navigation",
+                         "position":200,
+                         "primaryDisplay":"none",
+                         "value":{
+                            "type":"external",
+                            "opensWindow":"true",
+                            "value":{
+                               "href":"/nav_to.do?uri=/sys_ux_app_config.do?sys_id=7121d62a97653110e1961c800153affa"
+                            }
+                         }
+                      },
+                      {
+                         "label": {
+                            "translatable": true,
+                            "message":"Logout"
+                          },
+                         "position":500,
+                         "type":"navigation",
+                                "value":{
+                                  "type": "AUTH_ROUTE_BINDING",
+                                        "binding": {
+                                            "address": ["logout"],
+                                            "params": {"reload": true},
+                                            "default": "/logout.do"
+                                }
+                        }
+                      }
+                   ]
+                }
+             }
+          ],
+          "secondaryItems":[]
+       }
+    },
+    "publicPage":{
+      "menuEnabled": true,
+      "logoRoute": {
+        "type": "route",
+        "value": {
+          "route": "landing",
+          "fields":{}
+        }
+      }
+    }
+ }</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=06211a2ad6653110e97f507325780e1f"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CITZ Technical Manual Library">9d07812e97213110e1961c800153af70</application>
+        <file_path/>
+        <instance_id>f6cca41edb124890387021c40596198a</instance_id>
+        <instance_name>dev96850</instance_name>
+        <name>sys_ux_page_property_06211a2ad6653110e97f507325780e1f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_header</name><page display_value="CITZ Technical Manual Library">7d21d62a97653110e1961c800153aff9</page><required_translations>[ {
+  "message" : "Configure",
+  "comment" : ""
+}, {
+  "message" : "Logout",
+  "comment" : ""
+}, {
+  "message" : "Settings",
+  "comment" : ""
+}, {
+  "message" : "UserMenu",
+  "comment" : ""
+} ]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-10-01 02:49:46</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>06211a2ad6653110e97f507325780e1f</sys_id><sys_mod_count>1</sys_mod_count><sys_name>chrome_header</sys_name><sys_package display_value="CITZ Technical Manual Library" source="x_439657_citztmt">9d07812e97213110e1961c800153af70</sys_package><sys_policy/><sys_scope display_value="CITZ Technical Manual Library">9d07812e97213110e1961c800153af70</sys_scope><sys_update_name>sys_ux_page_property_06211a2ad6653110e97f507325780e1f</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-10-01 02:49:52</sys_updated_on><type>json</type><unique_name>x_439657_citztmt.7d21d62a97653110e1961c800153aff9.root.chrome_header</unique_name><value>{
+    "privatePage":{
+      "searchEnabled": true,
+       "userPrefsEnabled":true,
+       "currentScreenLinkConfiguration": {
+            "roles": ["admin"],
+            "position": 250
+        },
+       "globalTools":{
+          "collapsingMenuId":0,
+          "primaryItems":[
+             {
+                "label":"UserMenu",
+                "icon":"user",
+                "type":"menu",
+                "primaryDisplay":"icon",
+                "value":{
+                   "children":[
+                      {
+                         "label": {
+                          "translatable": true,
+                          "message":"Settings"
+                        },
+                         "position":100,
+                         "type":"navigation",
+                         "value":{
+                            "type":"route",
+                            "value":{
+                               "route":"settings",
+                               "fields":{
+                                  
+                               }
+                            }
+                         }
+                      },
+                      {                   
+                        "condition": {
+                          "roles": ["admin", "ui_builder_admin"]
+                        },
+                         "label":{
+                            "translatable": true,
+                            "message":"Configure"
+                          },
+                         "type":"navigation",
+                         "position":200,
+                         "primaryDisplay":"none",
+                         "value":{
+                            "type":"external",
+                            "opensWindow":"true",
+                            "value":{
+                               "href":"/nav_to.do?uri=/sys_ux_app_config.do?sys_id=7121d62a97653110e1961c800153affa"
+                            }
+                         }
+                      },
+                      {
+                         "label": {
+                            "translatable": true,
+                            "message":"Logout"
+                          },
+                         "position":500,
+                         "type":"navigation",
+                                "value":{
+                                  "type": "AUTH_ROUTE_BINDING",
+                                        "binding": {
+                                            "address": ["logout"],
+                                            "params": {"reload": true},
+                                            "default": "/logout.do"
+                                }
+                        }
+                      }
+                   ]
+                }
+             }
+          ],
+          "secondaryItems":[]
+       }
+    },
+    "publicPage":{
+      "menuEnabled": true,
+      "logoRoute": {
+        "type": "route",
+        "value": {
+          "route": "landing",
+          "fields":{}
+        }
+      }
+    }
+ }</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=06211a2ad6653110e97f507325780e1f"/></record_update>]]></payload>
+        <payload_hash>37980963</payload_hash>
+        <record_name>chrome_header</record_name>
+        <reverted_from/>
+        <source>6aae11a297a13110e1961c800153af3c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-10-01 02:49:52</sys_created_on>
+        <sys_id>d4311e2a97653110e1961c800153af45</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ae9246bb00000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-01 02:49:52</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>9c311e2a026531104f8597f2d0e54244</update_guid>
+        <update_guid_history>9c311e2a026531104f8597f2d0e54244:37980963,d4311e2a7a653110ccf5dc7864b7fd43:395738604</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-01 02:55:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>35e0891cf0034eacbb4e6ee0a94cdd84</sys_id>
+        <sys_metadata>06211a2ad6653110e97f507325780e1f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="CITZ Technical Manual Library" source="x_439657_citztmt">9d07812e97213110e1961c800153af70</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CITZ Technical Manual Library">9d07812e97213110e1961c800153af70</sys_scope>
+        <sys_scope_delete display_value="">b6ea79584015405ba1d1382355a620c9</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_06211a2ad6653110e97f507325780e1f</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_06211a2ad6653110e97f507325780e1f">d4311e2a97653110e1961c800153af45</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-01 02:55:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

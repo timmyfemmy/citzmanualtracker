@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="room" table="x_439657_citztmt_location" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>room</element>
+            <name>x_439657_citztmt_location</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-01 01:31:38</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>room</sys_name>
+            <sys_package display_value="CITZ Technical Manual Library" source="x_439657_citztmt">9d07812e97213110e1961c800153af70</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CITZ Technical Manual Library">9d07812e97213110e1961c800153af70</sys_scope>
+            <sys_update_name>sys_choice_x_439657_citztmt_location_room</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-01 01:31:38</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>building_a</dependent_value>
+            <element>room</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Building A Room 1</label>
+            <language>en</language>
+            <name>x_439657_citztmt_location</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-01 01:31:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-01 01:34:54</sys_updated_on>
+            <value>builading_a_room_1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>building_a</dependent_value>
+            <element>room</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Building A Room 2</label>
+            <language>en</language>
+            <name>x_439657_citztmt_location</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-01 01:31:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-01 01:35:16</sys_updated_on>
+            <value>building_a_room_2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>building_b</dependent_value>
+            <element>room</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Building B Room 1</label>
+            <language>en</language>
+            <name>x_439657_citztmt_location</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-01 01:33:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-01 01:33:19</sys_updated_on>
+            <value>building_b_room_1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>building_b</dependent_value>
+            <element>room</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Building B Room 2</label>
+            <language>en</language>
+            <name>x_439657_citztmt_location</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-01 01:33:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-01 01:33:08</sys_updated_on>
+            <value>building_b_room_2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>citz_building</dependent_value>
+            <element>room</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Devices Room</label>
+            <language>en</language>
+            <name>x_439657_citztmt_location</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-01 01:37:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-01 01:37:57</sys_updated_on>
+            <value>devices_room</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>citz_building</dependent_value>
+            <element>room</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Planning Room</label>
+            <language>en</language>
+            <name>x_439657_citztmt_location</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-01 01:37:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-01 01:37:04</sys_updated_on>
+            <value>planning_room</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>citz_building</dependent_value>
+            <element>room</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>System Room</label>
+            <language>en</language>
+            <name>x_439657_citztmt_location</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-01 01:37:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-01 01:37:22</sys_updated_on>
+            <value>system_room</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

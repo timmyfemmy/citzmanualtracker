@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Catalog Item page - Related Items dataset">c6211a2a0b653110d278ddc21c9aaf2e</dataset>
+        <order/>
+        <predicate_bundle display_value="Custom portal - Related items">ca211a2a4d65311026a9c5cc29ce452a</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-10-01 02:49:44</sys_created_on>
+        <sys_id>8a211a2a5e653110fb89f77c8fb8212b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CITZ Technical Manual Library" source="x_439657_citztmt">9d07812e97213110e1961c800153af70</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CITZ Technical Manual Library">9d07812e97213110e1961c800153af70</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_8a211a2a5e653110fb89f77c8fb8212b</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-01 02:49:44</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_index">
+    <sys_index action="INSERT_OR_UPDATE">
+        <col_name_string>building,room</col_name_string>
+        <index_col_name>32dcc9a297613110e1961c800153af2a,b6dcc9a297613110e1961c800153af2e</index_col_name>
+        <logical_table_name>x_439657_citztmt_location</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-10-01 01:45:04</sys_created_on>
+        <sys_id>0b520e6a97253110e1961c800153af05</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_439657_citztmt_location</sys_name>
+        <sys_package display_value="CITZ Technical Manual Library" source="x_439657_citztmt">9d07812e97213110e1961c800153af70</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CITZ Technical Manual Library">9d07812e97213110e1961c800153af70</sys_scope>
+        <sys_update_name>sys_index_x_439657_citztmt_location_building_room</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-01 01:45:04</sys_updated_on>
+        <table display_value="Location" name="x_439657_citztmt_location">badc89a297613110e1961c800153afa4</table>
+        <unique_index>true</unique_index>
+    </sys_index>
+</record_update>

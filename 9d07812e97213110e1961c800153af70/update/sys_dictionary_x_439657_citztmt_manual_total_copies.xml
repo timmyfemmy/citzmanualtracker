@@ -4,8 +4,17 @@
         <array>false</array>
         <attributes/>
         <audit>false</audit>
-        <calculation/>
-        <choice>0</choice>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	var count = new GlideAggregate('x_439657_citztmt_manual_copy');
+    count.addQuery('manual', current.sys_id);
+    count.addAggregate('COUNT');
+    count.query();
+    if (count.next())
+        return count.getAggregate('COUNT'); // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
         <choice_field/>
         <choice_table/>
         <column_label>Total copies</column_label>
@@ -53,14 +62,14 @@
         <sys_scope display_value="CITZ Technical Manual Library">9d07812e97213110e1961c800153af70</sys_scope>
         <sys_update_name>sys_dictionary_x_439657_citztmt_manual_total_copies</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-09-30 21:31:39</sys_updated_on>
+        <sys_updated_on>2023-10-01 00:38:03</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
         <use_dependent_field>false</use_dependent_field>
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
-        <virtual>false</virtual>
+        <virtual>true</virtual>
         <virtual_type>script</virtual_type>
         <widget/>
         <write_roles/>

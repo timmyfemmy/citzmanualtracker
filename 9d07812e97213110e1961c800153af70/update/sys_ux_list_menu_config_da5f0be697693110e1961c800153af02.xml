@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_list_menu_config">
+    <sys_ux_list_menu_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>CITZ Technical Manual Library_menu_config</name>
+        <sys_class_name>sys_ux_list_menu_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-01 07:21:26</sys_created_on>
+        <sys_id>da5f0be697693110e1961c800153af02</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CITZ Technical Manual Library_menu_config</sys_name>
+        <sys_package display_value="CITZ Technical Manual Library" source="x_439657_citztmt">9d07812e97213110e1961c800153af70</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CITZ Technical Manual Library">9d07812e97213110e1961c800153af70</sys_scope>
+        <sys_update_name>sys_ux_list_menu_config_da5f0be697693110e1961c800153af02</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-01 07:21:26</sys_updated_on>
+    </sys_ux_list_menu_config>
+</record_update>
