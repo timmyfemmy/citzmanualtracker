@@ -2,9 +2,7 @@
     <sys_search_source action="INSERT_OR_UPDATE">
         <active>true</active>
         <condition table="x_439657_citztmt_location">active=true</condition>
-        <group/>
         <name>CITZ Technical Manual Library - x_439657_citztmt_l</name>
-        <roles/>
         <source_table>x_439657_citztmt_location</source_table>
         <sys_class_name>sys_search_source</sys_class_name>
         <sys_created_by>admin</sys_created_by>

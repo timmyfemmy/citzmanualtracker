@@ -3,7 +3,6 @@
         <includes/>
         <macroponent display_value="Additional Details">4e211a2ac06531108480f79aa687f137</macroponent>
         <name>Fetch variables if catalog</name>
-        <preset/>
         <required_translations>[ {
   "code" : "",
   "message" : "No additional details at this time.",
@@ -63,7 +62,5 @@ async function handler({
         <sys_update_name>sys_ux_client_script_0e211a2a19653110cc87f99373fc2938</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2023-10-01 02:49:44</sys_updated_on>
-        <target/>
-        <type>default</type>
     </sys_ux_client_script>
 </record_update>

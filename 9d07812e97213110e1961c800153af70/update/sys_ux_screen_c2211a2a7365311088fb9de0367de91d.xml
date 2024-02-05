@@ -57,7 +57,6 @@
         <order>0</order>
         <parent_macroponent display_value="Record Page(request)">46211a2a22653110ad7c17afa3738d42</parent_macroponent>
         <required_translations>[ ]</required_translations>
-        <rollback_screen/>
         <screen_condition/>
         <screen_type display_value="Activity">02211a2a166531108e1ebc76827b9941</screen_type>
         <sys_class_name>sys_ux_screen</sys_class_name>

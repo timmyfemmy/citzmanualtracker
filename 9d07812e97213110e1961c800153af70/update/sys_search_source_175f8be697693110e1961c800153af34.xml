@@ -3,9 +3,7 @@
         <active>true</active>
         <condition table="x_439657_citztmt_technical_manual_request">active=true<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
         </condition>
-        <group/>
         <name>CITZ Technical Manual Library - x_439657_citztmt_t</name>
-        <roles/>
         <source_table>x_439657_citztmt_technical_manual_request</source_table>
         <sys_class_name>sys_search_source</sys_class_name>
         <sys_created_by>admin</sys_created_by>

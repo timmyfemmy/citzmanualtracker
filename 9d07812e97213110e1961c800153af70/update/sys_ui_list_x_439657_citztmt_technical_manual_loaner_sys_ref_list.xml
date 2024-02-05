@@ -3,7 +3,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_id</element>
-            <list_id display_value="x_439657_citztmt_technical_manual_loaner" element="NULL" name="x_439657_citztmt_technical_manual_loaner" parent="NULL" relationship="NULL" sys_domain="global" view="b699d343b4232110320f8dc279c8043e">f9cdca2697653110e1961c800153af44</list_id>
+            <list_id display_value="x_439657_citztmt_technical_manual_loaner" element="NULL" name="x_439657_citztmt_technical_manual_loaner" parent="NULL" relationship="NULL" sys_domain="global" view="f57bf043642230107f448300be91cf49">f9cdca2697653110e1961c800153af44</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -40,7 +40,7 @@
             <sys_updated_by>adela.cervantsz</sys_updated_by>
             <sys_updated_on>2023-10-01 02:34:57</sys_updated_on>
             <sys_user/>
-            <view display_value="Reference List" name="sys_ref_list">b699d343b4232110320f8dc279c8043e</view>
+            <view display_value="Reference List" name="sys_ref_list">f57bf043642230107f448300be91cf49</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

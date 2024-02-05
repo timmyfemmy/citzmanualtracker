@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="365805ae97213110e1961c800153afe0" label="Manual" max_length="40" name="x_439657_citztmt_manual" text_index="true" type="collection">
+    <element label="Manual" max_length="40" name="x_439657_citztmt_manual" text_index="true" type="collection">
         <element label="Available copies" max_length="40" name="available_copies" type="integer"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Category" mandatory="true" max_length="40" name="category" type="choice">
             <choice>
@@ -10,8 +10,11 @@
         </element>
         <element attributes="edge_encryption_enabled=true" label="Manual ID" mandatory="true" max_length="40" name="manual_id" type="string" unique="true"/>
         <element attributes="edge_encryption_enabled=true" display="true" label="Name" mandatory="true" max_length="96" name="name" type="string"/>
-        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;var count = new GlideAggregate('x_439657_citztmt_manual_copy');&#13;&#10;    count.addQuery('manual', current.sys_id);&#13;&#10;    count.addAggregate('COUNT');&#13;&#10;    count.query();&#13;&#10;    if (count.next())&#13;&#10;        return count.getAggregate('COUNT'); // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Total copies" max_length="40" name="total_copies" type="integer" virtual="true"/>
+        <element calculation="(function calculatedFieldValue(current) {&#10;&#10;&#9;var count = new GlideAggregate('x_439657_citztmt_manual_copy');&#10;    count.addQuery('manual', current.sys_id);&#10;    count.addAggregate('COUNT');&#10;    count.query();&#10;    if (count.next())&#10;        return count.getAggregate('COUNT'); // return the calculated value&#10;&#10;})(current);" label="Total copies" max_length="40" name="total_copies" type="integer" virtual="true"/>
         <index name="index" unique="true">
+            <element name="manual_id"/>
+        </index>
+        <index name="index2">
             <element name="manual_id"/>
         </index>
     </element>

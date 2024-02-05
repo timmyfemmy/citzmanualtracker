@@ -3034,11 +3034,8 @@
   "inputValues" : { },
   "readEvaluationMode" : "EXPLICIT"
 } ]</data>
-        <description/>
         <dispatched_events>0523deaac96531106ef75125b7d6bc06,4923deaa9365311085a08219faeaea04</dispatched_events>
-        <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
-        <extension_point/>
         <handled_events/>
         <interactions/>
         <interfaces/>
@@ -3058,7 +3055,6 @@
 }</layout>
         <macroponent_dependencies/>
         <name>Article page</name>
-        <output_prop_mapping/>
         <props>[ {
   "name" : "table",
   "label" : "Table",
@@ -3227,5 +3223,4 @@
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2023-10-01 02:58:27</sys_updated_on>
     </sys_ux_macroponent>
-    <sys_translated_text action="delete_multiple" query="documentkey=c923deaaf76531105ddeee60d6dfb71d"/>
 </record_update>

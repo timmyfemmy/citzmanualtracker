@@ -2633,11 +2633,8 @@
   "inputValues" : { },&#13;
   "readEvaluationMode" : "EXPLICIT"&#13;
 } ]</data>
-        <description/>
         <dispatched_events>0123deaa71653110160fdbea218e1f04,8923deaa96653110c4c277bb97cf9103</dispatched_events>
-        <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
-        <extension_point/>
         <handled_events>5523deaaeb653110e95eca1661e94826,9d23deaaf865311091002f10a1f65326,9123deaa896531103c7ef3cc26ce5526,d923deaa9a65311037c072419321ae26,5d23deaa10653110a899ff128ecdb527</handled_events>
         <interactions/>
         <interfaces/>
@@ -2919,7 +2916,6 @@
 }</layout>
         <macroponent_dependencies/>
         <name>Landing Page</name>
-        <output_prop_mapping/>
         <props>[ {&#13;
   "name" : "refresh",&#13;
   "label" : "Refresh",&#13;
@@ -3091,5 +3087,4 @@
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2023-10-01 02:58:33</sys_updated_on>
     </sys_ux_macroponent>
-    <sys_translated_text action="delete_multiple" query="documentkey=1d23deaabc653110ca1bc18fde6d5a28"/>
 </record_update>

@@ -346,11 +346,8 @@
 } ]</composition>
         <da_relay_models/>
         <data>[ ]</data>
-        <description/>
         <dispatched_events>0923deaa37653110065687256c903105</dispatched_events>
-        <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
-        <extension_point/>
         <handled_events/>
         <interactions/>
         <interfaces/>
@@ -370,7 +367,6 @@
 }</layout>
         <macroponent_dependencies/>
         <name>Settings Page</name>
-        <output_prop_mapping/>
         <props>[ ]</props>
         <required_translations>[ {
   "message" : "Settings",
@@ -394,5 +390,4 @@
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2023-10-01 02:58:26</sys_updated_on>
     </sys_ux_macroponent>
-    <sys_translated_text action="delete_multiple" query="documentkey=dd23deaabc653110e5f83642abd87522"/>
 </record_update>

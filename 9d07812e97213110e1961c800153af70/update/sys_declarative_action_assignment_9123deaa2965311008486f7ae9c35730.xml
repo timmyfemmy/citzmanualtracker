@@ -10,7 +10,6 @@
         <client_action display_value="Reject">1923deaa356531105c70acdd9963f830</client_action>
         <client_conditions/>
         <client_conditions_on_fields/>
-        <client_script/>
         <confirmation_message/>
         <confirmation_required>false</confirmation_required>
         <create_access>false</create_access>
@@ -20,9 +19,7 @@
         <dependency/>
         <description/>
         <design_icon/>
-        <enable_for_all_experiences>false</enable_for_all_experiences>
         <enabled>true</enabled>
-        <experience_restricted>false</experience_restricted>
         <field_name/>
         <field_type>glide_date</field_type>
         <form_fields_required>false</form_fields_required>
@@ -42,7 +39,6 @@
         <required_roles/>
         <requires_value>false</requires_value>
         <script_condition/>
-        <scripted_client_condition/>
         <server_script/>
         <specificity>1</specificity>
         <sys_class_name>sys_declarative_action_assignment</sys_class_name>

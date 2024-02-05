@@ -313,11 +313,8 @@
   },
   "readEvaluationMode" : "EAGER"
 } ]</data>
-        <description/>
         <dispatched_events/>
-        <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
-        <extension_point/>
         <handled_events/>
         <interactions/>
         <interfaces/>
@@ -350,7 +347,6 @@
 }</layout>
         <macroponent_dependencies/>
         <name>Order success</name>
-        <output_prop_mapping/>
         <props>[ {
   "name" : "sysId",
   "label" : "sysId",
@@ -463,5 +459,4 @@
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2023-10-01 02:49:44</sys_updated_on>
     </sys_ux_macroponent>
-    <sys_translated_text action="delete_multiple" query="documentkey=86211a2a9b6531103c4a6bfff7e87538"/>
 </record_update>

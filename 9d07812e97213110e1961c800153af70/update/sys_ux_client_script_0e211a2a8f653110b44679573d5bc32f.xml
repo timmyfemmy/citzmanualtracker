@@ -3,7 +3,6 @@
         <includes/>
         <macroponent display_value="Catalog Item Page">c6211a2aa0653110b694a9eb3bfbd346</macroponent>
         <name>Set Related item sysId</name>
-        <preset/>
         <required_translations>[ ]</required_translations>
         <script><![CDATA[function handler({
     api,
@@ -25,7 +24,5 @@
         <sys_update_name>sys_ux_client_script_0e211a2a8f653110b44679573d5bc32f</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2023-10-01 02:49:46</sys_updated_on>
-        <target/>
-        <type/>
     </sys_ux_client_script>
 </record_update>

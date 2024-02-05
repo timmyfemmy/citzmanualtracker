@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
     <sys_ux_app_config action="INSERT_OR_UPDATE">
         <active>true</active>
-        <custom_icon/>
         <default_route_type/>
         <description/>
         <encode_query_string>false</encode_query_string>

@@ -675,11 +675,8 @@
   },
   "readEvaluationMode" : "EAGER"
 } ]</data>
-        <description/>
         <dispatched_events>4a211a2a136531109d959af8c724a823</dispatched_events>
-        <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
-        <extension_point/>
         <handled_events/>
         <interactions/>
         <interfaces/>
@@ -699,7 +696,6 @@
 }</layout>
         <macroponent_dependencies/>
         <name>Preferences</name>
-        <output_prop_mapping/>
         <props>[ ]</props>
         <required_translations>[ {
   "message" : "Save",
@@ -740,5 +736,4 @@
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2023-10-01 02:49:52</sys_updated_on>
     </sys_ux_macroponent>
-    <sys_translated_text action="delete_multiple" query="documentkey=8a211a2a2a6531103ada766fe9d17122"/>
 </record_update>

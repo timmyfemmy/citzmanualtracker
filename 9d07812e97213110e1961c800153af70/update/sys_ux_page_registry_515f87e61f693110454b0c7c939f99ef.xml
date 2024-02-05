@@ -5,9 +5,8 @@
         <admin_panel_table>sys_ux_app_config</admin_panel_table>
         <auth_routes/>
         <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>
-        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
         <path>citztmt</path>
-        <root_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <root_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
         <sys_class_name>sys_ux_page_registry</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-10-01 07:21:23</sys_created_on>

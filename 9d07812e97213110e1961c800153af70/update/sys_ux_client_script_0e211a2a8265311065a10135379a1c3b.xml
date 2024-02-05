@@ -3,7 +3,6 @@
         <includes/>
         <macroponent display_value="Article page">82211a2a976531103fcdff6bb8141f3c</macroponent>
         <name>setFeedbackReason</name>
-        <preset/>
         <required_translations>[ ]</required_translations>
         <script><![CDATA[/**
  * @param {params} params
@@ -34,7 +33,5 @@ function handler({
         <sys_update_name>sys_ux_client_script_0e211a2a8265311065a10135379a1c3b</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2023-10-01 02:49:43</sys_updated_on>
-        <target/>
-        <type/>
     </sys_ux_client_script>
 </record_update>

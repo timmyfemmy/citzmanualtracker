@@ -3,7 +3,6 @@
         <includes/>
         <macroponent display_value="Article page">82211a2a976531103fcdff6bb8141f3c</macroponent>
         <name>Toggle Comment Reaction</name>
-        <preset/>
         <required_translations>[ ]</required_translations>
         <script><![CDATA[function handler({ api, event, imports }) {
   var likeCommentPayload = {
@@ -48,7 +47,5 @@
         <sys_update_name>sys_ux_client_script_8a211a2a366531105d29666176ac2531</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2023-10-01 02:49:45</sys_updated_on>
-        <target/>
-        <type/>
     </sys_ux_client_script>
 </record_update>

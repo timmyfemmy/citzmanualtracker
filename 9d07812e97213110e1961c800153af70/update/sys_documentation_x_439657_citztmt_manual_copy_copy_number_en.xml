@@ -10,7 +10,8 @@
             <plural>Copy numbers</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-09-30 21:47:14</sys_created_on>
+            <sys_created_on>2024-02-05 04:24:15</sys_created_on>
+            <sys_id>89b82cab980002107f447f63c54f5b07</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Copy number</sys_name>
             <sys_package display_value="CITZ Technical Manual Library" source="x_439657_citztmt">9d07812e97213110e1961c800153af70</sys_package>
@@ -18,7 +19,7 @@
             <sys_scope display_value="CITZ Technical Manual Library">9d07812e97213110e1961c800153af70</sys_scope>
             <sys_update_name>sys_documentation_x_439657_citztmt_manual_copy_copy_number_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-09-30 21:47:14</sys_updated_on>
+            <sys_updated_on>2024-02-05 04:24:15</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

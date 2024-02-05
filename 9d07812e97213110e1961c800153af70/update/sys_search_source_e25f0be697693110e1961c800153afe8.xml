@@ -2,9 +2,7 @@
     <sys_search_source action="INSERT_OR_UPDATE">
         <active>true</active>
         <condition table="x_439657_citztmt_manual_copy">active=true</condition>
-        <group/>
         <name>CITZ Technical Manual Library - x_439657_citztmt_m</name>
-        <roles/>
         <source_table>x_439657_citztmt_manual_copy</source_table>
         <sys_class_name>sys_search_source</sys_class_name>
         <sys_created_by>admin</sys_created_by>

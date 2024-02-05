@@ -2,7 +2,6 @@
     <sys_ux_event action="INSERT_OR_UPDATE">
         <description/>
         <event_name>CONTENT_UPDATED_RELAY_c6211a2aa0653110b694a9eb3bfbd346</event_name>
-        <explicit_api_name/>
         <interfaces/>
         <label>Content Updated Relay</label>
         <props>[{"name":"params","label":"Optionals Parameters","fieldType":"json","valueType":"string"}]</props>

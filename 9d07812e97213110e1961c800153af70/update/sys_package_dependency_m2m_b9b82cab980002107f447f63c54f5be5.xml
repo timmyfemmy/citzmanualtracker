@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
     <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
-        <dependency display_value="Task table schema" source="com.glide.task">9a5a170bb4232110320f8dc279c804ea</dependency>
+        <dependency display_value="Task table schema" source="com.glide.task">5bbc344b642230107f448300be91cfaa</dependency>
         <min_version>1.0.0</min_version>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-09-30 22:01:24</sys_created_on>
-        <sys_id>3a2f4d2697613110e1961c800153afed</sys_id>
+        <sys_id>b9b82cab980002107f447f63c54f5be5</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_package display_value="CITZ Technical Manual Library" source="x_439657_citztmt">9d07812e97213110e1961c800153af70</sys_package>
         <sys_updated_by>admin</sys_updated_by>

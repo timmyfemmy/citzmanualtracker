@@ -2,7 +2,6 @@
     <sys_ux_event action="INSERT_OR_UPDATE">
         <description/>
         <event_name>GLIDE_FORM_1_SET_VALUE_RELAY_42211a2a776531105cbb49cb3ff9ed3a</event_name>
-        <explicit_api_name/>
         <interfaces/>
         <label>Glide Form 1 SET_VALUE Relay (Tasks Default)</label>
         <props>[{"name":"fieldName","fieldType":"string","label":"Field Name"},{"name":"value","fieldType":"string","label":"Value"},{"name":"displayValue","fieldType":"string","label":"Display Value"}]</props>

@@ -2,7 +2,6 @@
     <sys_ux_app_route action="INSERT_OR_UPDATE">
         <app_config display_value="CITZ Technical Manual Library Config">7121d62a97653110e1961c800153affa</app_config>
         <description/>
-        <extension_point/>
         <fields/>
         <icon/>
         <name>Security and login</name>

@@ -722,11 +722,8 @@
   "inputValues" : { },
   "readEvaluationMode" : "EXPLICIT"
 } ]</data>
-        <description/>
         <dispatched_events>4123deaa1f65311011fd9dbb7ab5c206,0d23deaac9653110ba66d33f088dc404,0123deaa946531107ad1dbb615f1ef07,cd23deaa64653110cbafd8a77b865504</dispatched_events>
-        <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
-        <extension_point/>
         <handled_events/>
         <interactions/>
         <interfaces/>
@@ -746,7 +743,6 @@
 }</layout>
         <macroponent_dependencies/>
         <name>Tasks</name>
-        <output_prop_mapping/>
         <props>[ {
   "name" : "sysId",
   "label" : "sysId",
@@ -810,5 +806,4 @@
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2023-10-01 02:58:26</sys_updated_on>
     </sys_ux_macroponent>
-    <sys_translated_text action="delete_multiple" query="documentkey=0923deaa12653110c4ca9e2d6ea5e014"/>
 </record_update>

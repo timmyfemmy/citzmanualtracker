@@ -868,11 +868,8 @@
   },
   "readEvaluationMode" : "EAGER"
 } ]</data>
-        <description/>
         <dispatched_events>8d23deaa5a653110aa9585c9d6b8fd05,8923deaae26531101a74586bea575806</dispatched_events>
-        <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
-        <extension_point/>
         <handled_events>5923deaa476531109f6314360b135528</handled_events>
         <interactions/>
         <interfaces/>
@@ -905,7 +902,6 @@
 }</layout>
         <macroponent_dependencies/>
         <name>Catalog Item Page</name>
-        <output_prop_mapping/>
         <props>[ {
   "name" : "bare",
   "label" : "bare",
@@ -1009,5 +1005,4 @@
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2023-10-01 02:58:27</sys_updated_on>
     </sys_ux_macroponent>
-    <sys_translated_text action="delete_multiple" query="documentkey=1123deaae2653110235e5548bf9bf028"/>
 </record_update>

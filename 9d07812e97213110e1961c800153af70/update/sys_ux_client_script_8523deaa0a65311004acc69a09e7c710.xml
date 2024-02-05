@@ -3,7 +3,6 @@
         <includes/>
         <macroponent display_value="Settings Page">dd23deaabc653110e5f83642abd87522</macroponent>
         <name>breadcrumbs_1_items</name>
-        <preset/>
         <required_translations>[ {
   "code" : null,
   "message" : "Home",
@@ -45,7 +44,5 @@ function evaluateProperty({
         <sys_update_name>sys_ux_client_script_8523deaa0a65311004acc69a09e7c710</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2023-10-01 02:58:25</sys_updated_on>
-        <target/>
-        <type>transform</type>
     </sys_ux_client_script>
 </record_update>

@@ -49,9 +49,8 @@
 }</macroponent_config>
         <name>Record Default</name>
         <order>0</order>
-        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
         <required_translations>[ ]</required_translations>
-        <rollback_screen/>
         <screen_condition/>
         <screen_type display_value="Record">515f87e6f9693110b09c977febf3c7e2</screen_type>
         <sys_class_name>sys_ux_screen</sys_class_name>

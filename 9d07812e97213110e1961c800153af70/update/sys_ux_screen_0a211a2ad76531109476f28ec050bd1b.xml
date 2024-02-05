@@ -50,7 +50,6 @@
         <order>0</order>
         <parent_macroponent display_value="Record Page(task)">86211a2a096531108df241d98fc54944</parent_macroponent>
         <required_translations>[ ]</required_translations>
-        <rollback_screen/>
         <screen_condition/>
         <screen_type display_value="Additional Details">46211a2a5f653110b8838a6344e3a53c</screen_type>
         <sys_class_name>sys_ux_screen</sys_class_name>

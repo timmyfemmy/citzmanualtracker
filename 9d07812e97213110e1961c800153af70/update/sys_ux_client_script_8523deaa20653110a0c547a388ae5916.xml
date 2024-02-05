@@ -3,7 +3,6 @@
         <includes/>
         <macroponent display_value="Security &amp; sign-in">4d23deaa526531107874cb3cd6425515</macroponent>
         <name>Checking MFA setup</name>
-        <preset/>
         <required_translations>[ ]</required_translations>
         <script><![CDATA[/**
  * @param {params} params
@@ -41,7 +40,5 @@ function handler({
         <sys_update_name>sys_ux_client_script_8523deaa20653110a0c547a388ae5916</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2023-10-01 02:58:26</sys_updated_on>
-        <target/>
-        <type>default</type>
     </sys_ux_client_script>
 </record_update>

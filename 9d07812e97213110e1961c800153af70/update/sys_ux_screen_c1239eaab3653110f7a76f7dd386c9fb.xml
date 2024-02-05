@@ -79,7 +79,6 @@
         <order>0</order>
         <parent_macroponent display_value="Settings Page">dd23deaabc653110e5f83642abd87522</parent_macroponent>
         <required_translations>[ ]</required_translations>
-        <rollback_screen/>
         <screen_condition/>
         <screen_type display_value="Preferences">5123deaaa3653110df4f7d85bfcf9024</screen_type>
         <sys_class_name>sys_ux_screen</sys_class_name>

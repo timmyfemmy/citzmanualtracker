@@ -109,7 +109,6 @@
         <order>0</order>
         <parent_macroponent display_value="Settings Page">86211a2aa2653110cec398a4d9728541</parent_macroponent>
         <required_translations>[ ]</required_translations>
-        <rollback_screen/>
         <screen_condition/>
         <screen_type display_value="Security and login">4e211a2a596531100d9c6aeaa8861e40</screen_type>
         <sys_class_name>sys_ux_screen</sys_class_name>

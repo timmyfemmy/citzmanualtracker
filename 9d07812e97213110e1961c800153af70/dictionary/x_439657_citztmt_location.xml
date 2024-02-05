@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="badc89a297613110e1961c800153afa4" label="Location" max_length="40" name="x_439657_citztmt_location" text_index="true" type="collection">
+    <element label="Location" max_length="40" name="x_439657_citztmt_location" text_index="true" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="1" label="Building" max_length="40" name="building" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Building A" value="building_a"/>
@@ -22,10 +22,17 @@
             <choice/>
         </element>
         <index name="index" unique="true">
-            <element name="building"/>
             <element name="room"/>
         </index>
         <index name="index2" unique="true">
+            <element name="building"/>
+            <element name="room"/>
+        </index>
+        <index name="index3">
+            <element name="building"/>
+            <element name="room"/>
+        </index>
+        <index name="index4">
             <element name="room"/>
         </index>
     </element>

@@ -1016,11 +1016,8 @@
   },&#13;
   "readEvaluationMode" : "EAGER"&#13;
 } ]</data>
-        <description/>
         <dispatched_events/>
-        <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
-        <extension_point/>
         <handled_events/>
         <interactions/>
         <interfaces/>
@@ -1053,7 +1050,6 @@
 }</layout>
         <macroponent_dependencies/>
         <name>Search Page</name>
-        <output_prop_mapping/>
         <props>[ {&#13;
   "name" : "paginationToken",&#13;
   "label" : "paginationToken",&#13;
@@ -1177,5 +1173,4 @@
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2023-10-01 02:49:45</sys_updated_on>
     </sys_ux_macroponent>
-    <sys_translated_text action="delete_multiple" query="documentkey=02211a2ade65311072d87283bc19543b"/>
 </record_update>

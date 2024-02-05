@@ -3,7 +3,6 @@
         <includes/>
         <macroponent display_value="Landing Page">c2211a2a1d653110303feba14302a047</macroponent>
         <name>data_row_3_data</name>
-        <preset/>
         <required_translations>[ {
   "code" : null,
   "message" : "{0} out of 5",
@@ -40,7 +39,5 @@ function evaluateProperty({
         <sys_update_name>sys_ux_client_script_4e211a2ae16531106eab946814a4cc3a</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2023-10-01 02:49:45</sys_updated_on>
-        <target/>
-        <type>transform</type>
     </sys_ux_client_script>
 </record_update>

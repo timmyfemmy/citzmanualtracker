@@ -224,7 +224,6 @@
         <order>0</order>
         <parent_macroponent display_value="Record Page(task)">86211a2a096531108df241d98fc54944</parent_macroponent>
         <required_translations>[ ]</required_translations>
-        <rollback_screen/>
         <screen_condition/>
         <screen_type display_value="Indicate your decision">02211a2a8c6531105c612374c83fa63e</screen_type>
         <sys_class_name>sys_ux_screen</sys_class_name>

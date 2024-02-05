@@ -3,7 +3,6 @@
         <includes/>
         <macroponent display_value="Task rejected">0123deaa4f6531100303f5c8b67be916</macroponent>
         <name>Home redirection</name>
-        <preset/>
         <required_translations>[ ]</required_translations>
         <script><![CDATA[/**
  * @param {params} params
@@ -39,7 +38,5 @@ function handler({
         <sys_update_name>sys_ux_client_script_c923deaac165311044fd9c887c1ef917</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2023-10-01 02:58:27</sys_updated_on>
-        <target/>
-        <type/>
     </sys_ux_client_script>
 </record_update>

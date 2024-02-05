@@ -3741,11 +3741,8 @@
   },
   "readEvaluationMode" : "EAGER"
 } ]</data>
-        <description/>
         <dispatched_events>027534ecc33201103581a5a1d840ddee</dispatched_events>
-        <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
-        <extension_point/>
         <handled_events>b94818a0cc2cebbe41369181e4c8d6a6</handled_events>
         <interactions/>
         <interfaces/>
@@ -3797,7 +3794,6 @@
 }</layout>
         <macroponent_dependencies/>
         <name>Record Default</name>
-        <output_prop_mapping/>
         <props>[ {
   "name" : "screen",
   "label" : "screen",
@@ -3988,5 +3984,4 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-10-01 07:21:23</sys_updated_on>
     </sys_ux_macroponent>
-    <sys_translated_text action="delete_multiple" query="documentkey=995f87e62b693110541b724c659c93df"/>
 </record_update>

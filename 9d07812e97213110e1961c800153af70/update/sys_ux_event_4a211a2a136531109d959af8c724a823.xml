@@ -2,7 +2,6 @@
     <sys_ux_event action="INSERT_OR_UPDATE">
         <description/>
         <event_name>NOW_UXF_PAGE#ADD_NOTIFICATIONS_RELAY_8a211a2a2a6531103ada766fe9d17122</event_name>
-        <explicit_api_name/>
         <interfaces/>
         <label>Page Add Notifications Relay (Preferences Default)</label>
         <props>[{"name":"items","fieldType":"json","interfaceApiName":null,"label":"Items"}]</props>

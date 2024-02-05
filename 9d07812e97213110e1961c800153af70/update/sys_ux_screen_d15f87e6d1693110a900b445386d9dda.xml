@@ -202,9 +202,8 @@
 }</macroponent_config>
         <name>Analytics Center default</name>
         <order>0</order>
-        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
         <required_translations>[ ]</required_translations>
-        <rollback_screen/>
         <screen_condition/>
         <screen_type display_value="Analytics Center">955f87e6e7693110e27c82625eb7e8e3</screen_type>
         <sys_class_name>sys_ux_screen</sys_class_name>

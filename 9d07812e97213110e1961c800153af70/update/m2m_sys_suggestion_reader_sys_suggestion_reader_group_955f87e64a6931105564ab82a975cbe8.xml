@@ -13,7 +13,7 @@
         <sys_policy/>
         <sys_scope display_value="CITZ Technical Manual Library">9d07812e97213110e1961c800153af70</sys_scope>
         <sys_suggestion_reader_group_id display_value="Search-based Suggested Results Reader Group for Starter Workspace - Workspace Search">595f87e63e693110a8c556f3b8752be8</sys_suggestion_reader_group_id>
-        <sys_suggestion_reader_id display_value="Search Based Suggestion Reader">c41365e077020110be280d892c5a99f2</sys_suggestion_reader_id>
+        <sys_suggestion_reader_id display_value="">c41365e077020110be280d892c5a99f2</sys_suggestion_reader_id>
         <sys_update_name>m2m_sys_suggestion_reader_sys_suggestion_reader_group_955f87e64a6931105564ab82a975cbe8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-10-01 07:21:24</sys_updated_on>

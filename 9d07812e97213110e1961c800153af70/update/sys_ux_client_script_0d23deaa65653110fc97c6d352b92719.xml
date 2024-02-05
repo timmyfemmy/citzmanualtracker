@@ -3,7 +3,6 @@
         <includes/>
         <macroponent display_value="Record Page(request)">9d23deaa7765311061e1020ca95c1f23</macroponent>
         <name>Set catalog Imge</name>
-        <preset/>
         <required_translations>[ ]</required_translations>
         <script><![CDATA[/**
  * @param {params} params
@@ -40,7 +39,5 @@ function handler({
         <sys_update_name>sys_ux_client_script_0d23deaa65653110fc97c6d352b92719</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2023-10-01 02:58:25</sys_updated_on>
-        <target>macroponent</target>
-        <type>default</type>
     </sys_ux_client_script>
 </record_update>

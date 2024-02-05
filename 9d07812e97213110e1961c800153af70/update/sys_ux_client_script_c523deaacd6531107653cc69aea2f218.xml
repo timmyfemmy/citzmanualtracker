@@ -3,7 +3,6 @@
         <includes/>
         <macroponent display_value="Order success">cd23deaa016531102f5ea742d33abc19</macroponent>
         <name>confirmation_message_1_caption</name>
-        <preset/>
         <required_translations>[ {
   "code" : null,
   "message" : "Reference Number : ",
@@ -34,7 +33,5 @@ function evaluateProperty({
         <sys_update_name>sys_ux_client_script_c523deaacd6531107653cc69aea2f218</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2023-10-01 02:58:25</sys_updated_on>
-        <target/>
-        <type>transform</type>
     </sys_ux_client_script>
 </record_update>

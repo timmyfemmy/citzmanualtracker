@@ -3,7 +3,6 @@
         <includes/>
         <macroponent display_value="Landing Page">1d23deaabc653110ca1bc18fde6d5a28</macroponent>
         <name>My Tasks - Set sysID inside modal</name>
-        <preset/>
         <required_translations>[ ]</required_translations>
         <script><![CDATA[function handler({
     api,
@@ -26,7 +25,5 @@
         <sys_update_name>sys_ux_client_script_c123deaa4265311078bc8f03141b861c</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2023-10-01 02:58:26</sys_updated_on>
-        <target/>
-        <type/>
     </sys_ux_client_script>
 </record_update>

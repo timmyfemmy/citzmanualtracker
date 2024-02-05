@@ -3,7 +3,6 @@
         <includes/>
         <macroponent display_value="Search Page">02211a2ade65311072d87283bc19543b</macroponent>
         <name>handle_pagination</name>
-        <preset/>
         <required_translations>[ ]</required_translations>
         <script><![CDATA[function handler({ api, event, helpers }) {
 	const props = api.context.props;
@@ -34,7 +33,5 @@
         <sys_update_name>sys_ux_client_script_c2211a2af96531107d0db81a5aee6b3b</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2023-10-01 02:49:47</sys_updated_on>
-        <target/>
-        <type/>
     </sys_ux_client_script>
 </record_update>
