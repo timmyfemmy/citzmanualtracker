@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="9d5c0afa97257110e1961c800153af15" label="Waitlist" max_length="40" name="x_439657_citztmt_waitlist" text_index="true" type="collection">
-        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Manual" max_length="32" name="manual" reference="x_439657_citztmt_manual" type="reference"/>
-        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Requester" max_length="32" name="requester" reference="x_439657_citztmt_technical_manual_loaner" type="reference"/>
+        <element label="Manual" max_length="32" name="manual" reference="x_439657_citztmt_manual" type="reference"/>
+        <element label="Requester" max_length="32" name="requester" reference="x_439657_citztmt_technical_manual_loaner" type="reference"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
         <index name="index">
             <element name="manual"/>
         </index>
         <index name="index2">
             <element name="requester"/>
+        </index>
+        <index name="index3">
+            <element name="sys_class_name"/>
         </index>
     </element>
 </database>
