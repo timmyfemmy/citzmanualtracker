@@ -3,6 +3,7 @@
         <active>true</active>
         <app_config display_value="CITZ Technical Manual Library Config">89239eaa97653110e1961c800153afdd</app_config>
         <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
         <event_mappings>[ ]</event_mappings>
         <macroponent display_value="Activity">8d23deaaf0653110ef1f53eee3970202</macroponent>
         <macroponent_config>{

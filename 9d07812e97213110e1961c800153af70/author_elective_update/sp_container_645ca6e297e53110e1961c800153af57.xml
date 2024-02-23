@@ -51,7 +51,7 @@
         <update_guid_history>e19daa26b8e53110fc892affa223e721:748072742,285ca6e20fe53110adb82f98c0f1e658:31677831</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Technical Manual Library - Container 2">969da22697e53110e1961c800153afe4</sys_audit_delete>
+        <sys_audit_delete display_value="">969da22697e53110e1961c800153afe4</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-10-01 04:53:59</sys_created_on>

@@ -2,6 +2,7 @@
     <sp_row action="INSERT_OR_UPDATE">
         <class_name/>
         <order>1</order>
+        <semantic_tag/>
         <sp_column/>
         <sp_container display_value="Technical Manual Library - Container 1">5b37b2ea97e53110e1961c800153af51</sp_container>
         <sys_class_name>sp_row</sys_class_name>

@@ -3,6 +3,7 @@
         <active>true</active>
         <app_config display_value="CITZ Technical Manual Library Config">955f87e6ce693110232ddbf5391b8eef</app_config>
         <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
         <event_mappings>[ {&#13;
   "eventMappingId" : "ckdeecffptcaaaaaajddghheejjiaajjbbaaiim",&#13;
   "isConfiguration" : false,&#13;

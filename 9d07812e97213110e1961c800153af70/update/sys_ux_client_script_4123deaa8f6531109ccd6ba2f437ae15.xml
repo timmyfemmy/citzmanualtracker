@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
     <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
         <includes/>
         <macroponent display_value="Tasks">0923deaa12653110c4ca9e2d6ea5e014</macroponent>
         <name>Task Approve/Reject</name>

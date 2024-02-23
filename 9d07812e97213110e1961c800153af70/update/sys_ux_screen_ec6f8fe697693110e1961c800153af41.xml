@@ -3,6 +3,7 @@
         <active>true</active>
         <app_config display_value="CITZ Technical Manual Library Config">955f87e6ce693110232ddbf5391b8eef</app_config>
         <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
         <event_mappings>[ ]</event_mappings>
         <macroponent display_value="Manual Copy Record Page">106f4fe697693110e1961c800153aff7</macroponent>
         <macroponent_config>{

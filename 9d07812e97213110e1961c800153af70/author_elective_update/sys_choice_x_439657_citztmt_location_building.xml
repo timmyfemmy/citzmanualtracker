@@ -6,6 +6,7 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2023-10-01 01:22:40</sys_created_on>
+            <sys_id>05a199e32f0c0290c57455272799b619</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>building</sys_name>
             <sys_package display_value="CITZ Technical Manual Library" source="x_439657_citztmt">9d07812e97213110e1961c800153af70</sys_package>
@@ -29,6 +30,7 @@
             <sys_created_on>2023-10-01 01:22:40</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>4b0251a72f0c0290c57455272799b6ae</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-10-01 01:22:40</sys_updated_on>
@@ -48,6 +50,7 @@
             <sys_created_on>2023-10-01 01:22:48</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>c70251a72f0c0290c57455272799b6af</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-10-01 01:22:48</sys_updated_on>
@@ -67,6 +70,7 @@
             <sys_created_on>2023-10-01 01:22:55</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>470251a72f0c0290c57455272799b6b0</sys_id>
             <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-10-01 01:38:25</sys_updated_on>

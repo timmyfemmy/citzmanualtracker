@@ -8,6 +8,7 @@
         <container_class_name/>
         <name>Technical Manual Categories - Container 2</name>
         <order>2</order>
+        <semantic_tag/>
         <sp_page display_value="tm_category">7c35872e97293110e1961c800153af21</sp_page>
         <subheader>false</subheader>
         <sys_class_name>sp_container</sys_class_name>

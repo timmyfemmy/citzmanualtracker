@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="fe2f4d2697613110e1961c800153afc7" extends="task" label="Technical Manual Request" max_length="40" name="x_439657_citztmt_technical_manual_request" text_index="true" type="collection">
         <element attributes="encode_utf8=false" label="Manual Copy" mandatory="true" max_length="32" name="manual_copy" reference="x_439657_citztmt_manual_copy" type="reference"/>
-        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Requester" max_length="32" name="requester" reference="x_439657_citztmt_technical_manual_loaner" reference_cascade_rule="clear" type="reference"/>
+        <element label="Requester" max_length="32" name="requester" reference="x_439657_citztmt_technical_manual_loaner" reference_cascade_rule="clear" type="reference"/>
     </element>
 </database>
