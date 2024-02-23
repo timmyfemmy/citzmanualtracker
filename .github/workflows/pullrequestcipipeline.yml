@@ -1,4 +1,4 @@
-name: ServiceNow Pull Request Pipeline
+name: ServiceNow CITZ CI Pipeline
 
 on: 
   pull_request:
