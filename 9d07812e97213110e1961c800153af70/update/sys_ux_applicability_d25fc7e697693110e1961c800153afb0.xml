@@ -4,6 +4,7 @@
         <api_name>x_439657_citztmt.Audience for app citztmt</api_name>
         <description/>
         <name>Audience for app citztmt</name>
+        <role_names/>
         <roles>d427016e97213110e1961c800153af63,5427812e97213110e1961c800153aff3,1027812e97213110e1961c800153afef</roles>
         <sys_class_name>sys_ux_applicability</sys_class_name>
         <sys_created_by>admin</sys_created_by>

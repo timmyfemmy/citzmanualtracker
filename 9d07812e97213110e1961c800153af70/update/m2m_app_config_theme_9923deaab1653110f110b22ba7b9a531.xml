@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
     <m2m_app_config_theme action="INSERT_OR_UPDATE">
-        <applicability display_value="Public">d523deaa42653110d4166286d1149231</applicability>
+        <applicability display_value="">d523deaa42653110d4166286d1149231</applicability>
         <order>0</order>
         <sys_class_name>m2m_app_config_theme</sys_class_name>
         <sys_created_by>system</sys_created_by>

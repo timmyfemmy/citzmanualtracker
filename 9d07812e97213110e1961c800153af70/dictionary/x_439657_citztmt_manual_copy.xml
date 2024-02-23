@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="0bebc96297613110e1961c800153aff5" label="Manual Copy" max_length="40" name="x_439657_citztmt_manual_copy" text_index="true" type="collection">
         <element label="Available" mandatory="true" max_length="40" name="available" type="boolean"/>
-        <element attributes="edge_encryption_enabled=true" calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return current.manual.category;  // return the calculated value&#13;&#10;&#13;&#10;})(current);" choice="1" label="Category" max_length="40" name="category" type="choice" virtual="true">
+        <element attributes="edge_encryption_enabled=true" calculation="(function calculatedFieldValue(current) {&#10;&#10;&#9;// Add your code here&#10;&#9;return current.manual.category;  // return the calculated value&#10;&#10;})(current);" choice="1" label="Category" max_length="40" name="category" type="choice" virtual="true">
             <choice>
                 <element inactive_on_update="false" label="Hardware" value="hardware"/>
                 <element inactive_on_update="false" label="Network" value="network"/>
                 <element inactive_on_update="false" label="Software" value="software"/>
             </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true" calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;        return current.manual.manual_id + &quot;-&quot; + current.copy_number; // return the calculated value&#13;&#10;&#13;&#10;})(current);" display="true" label="Copy ID" mandatory="true" max_length="40" name="copy_id" type="string" unique="true" virtual="true"/>
+        <element attributes="edge_encryption_enabled=true" calculation="(function calculatedFieldValue(current) {&#10;&#10;        return current.manual.manual_id + &quot;-&quot; + current.copy_number; // return the calculated value&#10;&#10;})(current);" display="true" label="Copy ID" mandatory="true" max_length="40" name="copy_id" type="string" unique="true" virtual="true"/>
         <element attributes="edge_encryption_enabled=true" label="Copy number" mandatory="true" max_length="40" name="copy_number" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Location" max_length="40" name="location" type="choice">
             <choice/>
@@ -21,6 +21,9 @@
             <element name="copy_id"/>
         </index>
         <index name="index2">
+            <element name="copy_id"/>
+        </index>
+        <index name="index3">
             <element name="manual"/>
         </index>
     </element>

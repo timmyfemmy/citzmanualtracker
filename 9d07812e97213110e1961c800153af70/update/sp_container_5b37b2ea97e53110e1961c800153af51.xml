@@ -8,6 +8,7 @@
         <container_class_name/>
         <name>Technical Manual Library - Container 1</name>
         <order>1</order>
+        <semantic_tag/>
         <sp_page display_value="citztmt_library">d275962e97653110e1961c800153af9e</sp_page>
         <subheader>false</subheader>
         <sys_class_name>sp_container</sys_class_name>

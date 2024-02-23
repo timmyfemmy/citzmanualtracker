@@ -21,11 +21,18 @@
         <element attributes="edge_encryption_enabled=true" choice="1" label="Shelf" max_length="40" name="shelf" type="choice">
             <choice/>
         </element>
-        <index name="index" unique="true">
+        <index name="index">
             <element name="building"/>
             <element name="room"/>
         </index>
         <index name="index2" unique="true">
+            <element name="building"/>
+            <element name="room"/>
+        </index>
+        <index name="index3">
+            <element name="room"/>
+        </index>
+        <index name="index4" unique="true">
             <element name="room"/>
         </index>
     </element>

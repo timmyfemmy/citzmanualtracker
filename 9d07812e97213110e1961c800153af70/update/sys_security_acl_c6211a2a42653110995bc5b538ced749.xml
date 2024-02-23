@@ -5,9 +5,11 @@
         <advanced>false</advanced>
         <condition/>
         <description>ACL for data broker: Catalog item from RITM</description>
+        <local_or_existing/>
         <name>28852d8db7721010c5e229a6ee11a993</name>
         <operation display_value="execute">execute</operation>
         <script/>
+        <security_attribute/>
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2023-10-01 02:49:45</sys_created_on>
