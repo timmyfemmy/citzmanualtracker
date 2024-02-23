@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
     <sys_atf_step action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <copied_from/>
         <description>Insert a record into 'x_439657_citztmt_manual_copy' with the following values:
 Manual = {{Step 1: Record Insert.Record}}
@@ -18,14 +18,14 @@ Confirm the record was successfully inserted</description>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-02-23 02:26:55</sys_created_on>
         <sys_id>e3097c5d2f28c610c57455272799b66f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Record Insert</sys_name>
         <sys_package display_value="CITZ Technical Manual Library" source="x_439657_citztmt">9d07812e97213110e1961c800153af70</sys_package>
         <sys_policy/>
         <sys_scope display_value="CITZ Technical Manual Library">9d07812e97213110e1961c800153af70</sys_scope>
         <sys_update_name>sys_atf_step_e3097c5d2f28c610c57455272799b66f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-02-23 02:26:55</sys_updated_on>
+        <sys_updated_on>2024-02-23 06:16:01</sys_updated_on>
         <table>x_439657_citztmt_manual_copy</table>
         <test display_value="CITZ Test">a51734d52fe8c610c57455272799b63b</test>
         <timeout/>
