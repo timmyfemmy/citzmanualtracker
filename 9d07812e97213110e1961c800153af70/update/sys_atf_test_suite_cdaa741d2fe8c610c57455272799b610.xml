@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite">
+    <sys_atf_test_suite action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <input_filter table="sys_atf_test">sys_scope=9d07812e97213110e1961c800153af70^EQ<item display_table="sys_scope" display_value="CITZ Technical Manual Library" endquery="false" field="sys_scope" goto="false" newquery="false" operator="=" or="false" value="9d07812e97213110e1961c800153af70"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </input_filter>
+        <name>CITZ Test Suite</name>
+        <parent/>
+        <sys_class_name>sys_atf_test_suite</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-23 02:28:28</sys_created_on>
+        <sys_id>cdaa741d2fe8c610c57455272799b610</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CITZ Test Suite</sys_name>
+        <sys_package display_value="CITZ Technical Manual Library" source="x_439657_citztmt">9d07812e97213110e1961c800153af70</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CITZ Technical Manual Library">9d07812e97213110e1961c800153af70</sys_scope>
+        <sys_update_name>sys_atf_test_suite_cdaa741d2fe8c610c57455272799b610</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-23 02:28:28</sys_updated_on>
+    </sys_atf_test_suite>
+</record_update>
